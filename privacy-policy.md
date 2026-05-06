@@ -7,7 +7,7 @@ title: Privacy Policy
 
 **Last updated:** May 5, 2026
 
-This Privacy Policy explains what data HomeSplit ("we," "us," "the app") collects, why we collect it, and how it is handled. It applies to the HomeSplit mobile application on iOS and Android.
+This Privacy Policy explains what data HomeSplit collects, why we collect it, and how it is handled. It applies to the HomeSplit mobile application on iOS and Android, which is operated by **Bryan Santini, an individual sole proprietor doing business as HomeSplit** ("we," "us," "the app").
 
 If you have questions about this policy, contact us at **bryansantini@yahoo.com**.
 
