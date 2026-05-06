@@ -152,3 +152,7 @@ We may update this policy from time to time. When we make material changes, we'l
 ## Contact us
 
 If you have any questions about this policy or how we handle your data, email us at **bryansantini@yahoo.com**.
+
+---
+
+See also: [Terms of Use](/homesplit-legal/terms/)

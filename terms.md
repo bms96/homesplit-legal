@@ -136,3 +136,7 @@ Nothing in these Terms prevents you from bringing a complaint to your local cons
 ## Contact
 
 If you have any questions about these Terms, email us at **bryansantini@yahoo.com**.
+
+---
+
+See also: [Privacy Policy](/homesplit-legal/)
