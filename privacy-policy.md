@@ -1,7 +1,8 @@
- ---                                                                                                                                                                                  
-  title: Privacy Policy                                  
-  permalink: /privacy/
+
   ---
+  title: Privacy Policy                                                                                                                                                                
+  permalink: /privacy/                                   
+  --- 
 
 # Privacy Policy
 
