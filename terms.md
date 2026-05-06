@@ -1,14 +1,14 @@
 ---
 layout: default
-title: HomeSplit Terms of Use
+title: HomeSplit Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Use
+# Terms of Service
 
 **Last updated:** May 6, 2026
 
-These Terms of Use ("Terms") are a legal agreement between you and **Bryan Santini, an individual sole proprietor doing business as HomeSplit** ("we," "us," "the app") governing your use of the HomeSplit mobile application on iOS and Android. By downloading, installing, or using HomeSplit, you agree to these Terms. If you do not agree, do not use the app.
+These Terms of Service ("Terms") are a legal agreement between you and **Bryan Santini, an individual sole proprietor doing business as HomeSplit** ("we," "us," "the app") governing your use of the HomeSplit mobile application on iOS and Android. By downloading, installing, or using HomeSplit, you agree to these Terms. If you do not agree, do not use the app.
 
 If you have questions about these Terms, contact us at **bryansantini@yahoo.com**.
 

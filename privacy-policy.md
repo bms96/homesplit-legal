@@ -155,4 +155,4 @@ If you have any questions about this policy or how we handle your data, email us
 
 ---
 
-See also: [Terms of Use](/homesplit-legal/terms/)
+See also: [Terms of Service](/homesplit-legal/terms/)
